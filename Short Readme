@@ -1,0 +1,13 @@
+# Array Functions Project
+
+This project contains C programs to:
+- Find maximum and minimum in an array
+- Find average of array
+- Display array elements
+- Sort array
+- Linear search
+
+## How to Compile and Run
+
+1. Open terminal or command prompt.
+2. Compile the program:
